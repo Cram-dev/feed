@@ -1,32 +1,14 @@
 {
-  "updated_at": "2026-11-23T21:36:14.072Z",
+  "updated_at": "2026-11-23T22:02:18.104Z",
   "items": [
     {
-      "id": "system-2026-11-cinestream",
+      "id": "system-2026-11-en-desarrollo",
       "type": "system",
-      "slug": "cinestream",
-      "version": "1.0.0",
-      "title": "CineStream V1.0.0",
-      "body": "Dentro de muy poco saldrá la versión de CineStream al publico",
-      "published_at": "2026-11-23T20:03:55.000Z"
-    },
-    {
-      "id": "theme-2026-11-default-v2",
-      "type": "theme",
-      "slug": "default-v2",
-      "version": "2.0.0",
-      "title": "Default v2",
-      "body": "Una nueva actualización con lo ultimo de CSS3",
-      "published_at": "2026-11-23T21:13:46.000Z"
-    },
-    {
-      "id": "system-2026-11-seguridad",
-      "type": "system",
-      "slug": "seguridad",
-      "version": "1.0.0",
-      "title": "Seguridad",
-      "body": "Aun no ha sido chequeado, en unos momentos!",
-      "published_at": "2026-11-23T21:35:00.000Z"
+      "slug": "en-desarrollo",
+      "version": "0.1.0",
+      "title": "En desarrollo",
+      "body": "Hola administrador, ahora el sistema se encuentra en modo pre-producción, solo hay que mejorar algunos detalles.\nSobre todo mejorar la parte de seguidad.",
+      "published_at": "2026-11-23T21:36:14.000Z"
     }
   ]
 }
