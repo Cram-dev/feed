@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T22:02:18.104Z",
+  "updated_at": "2026-11-25T18:15:15.307Z",
   "items": [
     {
       "id": "system-2026-11-en-desarrollo",
@@ -7,7 +7,7 @@
       "slug": "en-desarrollo",
       "version": "0.1.0",
       "title": "En desarrollo",
-      "body": "Hola administrador, ahora el sistema se encuentra en modo pre-producción, solo hay que mejorar algunos detalles.\nSobre todo mejorar la parte de seguidad.",
+      "body": "Hola administrador, ahora el sistema se encuentra en modo pre-producción, solo hay que mejorar algunos detalles. Se ha reparado las vulnerabilidades encontradas, se paso también por PHPStan.",
       "published_at": "2026-11-23T21:36:14.000Z"
     }
   ]
